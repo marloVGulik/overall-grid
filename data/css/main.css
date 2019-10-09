@@ -20,6 +20,7 @@ body {
 	display: inline-block;
 }
 .frontPage {
+	margin: -4px 0 0 0;
 	padding: 20px 60px;
 	display: inline-flex;
 	background-image: linear-gradient(#32455d, #628aa7);
