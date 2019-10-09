@@ -1,9 +1,12 @@
 body {
 	font-family: 'lato', sans-serif;
 	margin: 0;
+	font-size: 14px;
+	line-height: 20px;
 }
 a {
 	text-decoration: none;
+	color: #000000;
 }
 
 .main {
@@ -41,6 +44,10 @@ a {
 	width: 40%;
 	color: #FFFFFF;
 }
+.frontPageText h2 {
+	font-size: 26px;
+	line-height: 30px;
+}
 .bannerContainer {
 	width: 66%;
 }
@@ -60,6 +67,8 @@ a {
 }
 .tab h3 {
 	margin: 10px;
+	font-size: 20px;
+	line-height: 22px;
 }
 
 .footer {
